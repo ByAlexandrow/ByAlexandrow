@@ -4,7 +4,7 @@
 
 ### Technologies:
 
-Work experience: 1 year 5 months
+Work experience: 1 year 3 months
 
 1. Main programming language: Python
 2. Basic frameworks / tools:
