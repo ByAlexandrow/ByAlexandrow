@@ -16,7 +16,7 @@ Work experience: 1 year 5 months
 4. OS-level virtualization: Docker
 
 
-### Сайты, которые я сделал:
+### Freelance work:
 
 1. https://mystery-of-story.com/
 2. https://opora48.ru/
@@ -25,7 +25,7 @@ Work experience: 1 year 5 months
 5. https://...
 
 
-### Контакты:
+### Contacts:
 
 Email: egor.aleksx@yandex.ru
 
