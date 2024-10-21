@@ -9,10 +9,10 @@ Work experience: 1 year 5 months
 
 1. Main programming language: Python
 2. Basic frameworks / tools:
-   2.1 Python: asyncio, FastAPI, Django (+DRF)
+   1. Python: asyncio, FastAPI, Django (+DRF)
 3. Databases:
-   3.1. Row oriented: MySQl, PostreSQl
-   3.2. Document oriented: MongoDB
+   1. Row oriented: MySQl, PostreSQl
+   2. Document oriented: MongoDB
 4. OS-level virtualization: Docker
 
 
