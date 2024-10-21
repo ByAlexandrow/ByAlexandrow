@@ -30,6 +30,6 @@ Email: egor.aleksx@yandex.ru
 
 Telegram: @AlexandrowE
 
-GitHub: https://githun.com/ByAlexandrow/
+GitHub: https://github.com/ByAlexandrow/
 
 hh.ru: https://lipetsk.hh.ru/resume/7bc32cb9ff0d4510b90039ed1f427845737944
