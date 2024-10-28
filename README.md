@@ -28,7 +28,7 @@ Work experience: 1 year 3 months
 
 Email: egor.aleksx@yandex.ru
 
-Telegram: https://t.me/AlexandrowE (@AlexandrowE)
+Telegram: https://t.me/AlexandrowE
 
 Telegram channel: https://t.me/By_Alexandrow
 
