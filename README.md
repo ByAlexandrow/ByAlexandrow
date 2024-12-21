@@ -1,6 +1,7 @@
 ## ByAlexandrow
 
 ### About me:
+Egor Alexandrow, 20 y.o, Russia, Moscow + Lipetsk
 
 ### Technologies:
 
