@@ -5,7 +5,7 @@ Egor Alexandrow, 20 y.o, Russia, Moscow + Lipetsk
 
 ### Technologies:
 
-Work experience: 1 year 5 months
+Work experience: 1 year 8 months
 
 1. Main programming language: Python
 2. Basic frameworks / tools:
