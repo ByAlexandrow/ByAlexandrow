@@ -1,11 +1,11 @@
 ## ByAlexandrow
 
 ### About me:
-Egor Alexandrow, 20 y.o, Russia, Moscow + Lipetsk
+Egor Alexandrow, 21 y.o, Russia, Moscow + Lipetsk
 
 ### Technologies:
 
-Work experience: 1 year 8 months
+Work experience: 1 year 5 months
 
 1. Main programming language: Python
 2. Basic frameworks / tools:
@@ -31,7 +31,7 @@ Email: egor.aleksx@yandex.ru
 
 Telegram: https://t.me/AlexandrowE
 
-Telegram channel: https://t.me/By_Alexandrow
+Telegram channel: https://t.me/EgorAlexandrow
 
 GitHub: https://github.com/ByAlexandrow/
 
