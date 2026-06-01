@@ -22,3 +22,9 @@ I've been learning to code for 4 years, since I entered university. I started wi
 <p align="left"> <a href="https://www.github.com/ByAlexandrow" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture></a>
 
 </ul>
+
+### Freelance projects
+
+* 💼  Website for the charity foundation: [Точка опоры](https://opora48.ru/)
+* 💼  Website for a law agency: [Законное право](https://законноеправо.рф/)
+* 💼  Website for a tutor of Russion language and literature: [Репетитор по русскому языку онлайн](https://онлайнрусский.рф/)
