@@ -37,5 +37,4 @@ GitHub: https://github.com/ByAlexandrow/
 
 hh.ru: https://lipetsk.hh.ru/resume/7bc32cb9ff0d4510b90039ed1f427845737944
 
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?ByAlexandrow
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ByAlexandrow)](https://git.io/streak-stats)
