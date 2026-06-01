@@ -7,7 +7,7 @@ Web Developer and AQA/QC
 I've been learning to code for 4 years, since I entered university. I started with DataScience, but pretty quickly realized that I kike making websites and testing more. I dream of making some websites with absolutely free information in some area and making my own RPG game
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [MyPortfolio](http://alexandrow.dev)
+* 🖥️  See my portfolio at [MyPortfolio](...)
 * ✉️  You can contact me at [egor.aleksx@yandex.ru](mailto:egor.aleksx@yandex.ru)
 * 🧠  I'm currently learning JavaScript
 * 👥  I'm looking to collaborate on Everything
