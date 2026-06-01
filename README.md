@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Egor Alexandrow
 ========================================================================================================================================
 
-Web Developer and AQA/QC
+Web Developer & AQA/QC
 ------------------------
 
 I've been learning to code for 4 years, since I entered university. I started with DataScience, but pretty quickly realized that I kike making websites and testing more. I dream of making some websites with absolutely free information in some area and making my own RPG game
